@@ -90,4 +90,4 @@ Mündəricat
 ### Pythonda şəxsiyyət operatorları (Python Identity Operators) ###
 ### format() metodu ###
 ### Siyahılar (Lists) verilən tipi ###
->>>>>>> b660db2656ae79c05c1c0b9dd8d56b8e6ec8a62a
+
