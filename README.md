@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python3 proqramlaşdırma dili  #
 
 
