@@ -3,7 +3,7 @@
 
 
 
-![picture](http://RashadGarayev/Python3-AZ/image/pyimg.jpg)
+![](https://github.com/RashadGarayev/Python3-AZ/blob/master/image/pyimg.jpg)
 
 
 
