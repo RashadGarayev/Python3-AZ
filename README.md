@@ -71,3 +71,14 @@ Mündəricat
 ### Lüğətlər (Dictionaries) ###
 1. Lüğətlər
 2. Metodları
+2. keys() metodu
+3. values() metodu
+4. copy() metodu
+5. get() metodu
+6. fromkey() metodu
+7. clear() metodu
+8. items() metodu
+9. pop() metodu
+10. popitem() metodu
+11. setdefault() metodu
+12. update() metodu
