@@ -39,7 +39,8 @@ Mündəricat
 3. Pythonda tip çevirmələri (Type Conversion in Python)
 4. Sətir tipi verilənlər - indeksləmə - dilimləmə (indexing Slicing)
 5. Slicing - dilimləmə(parçalama)
-6. Sətir tipi verilənlər.Metodlar
+6. Sətir tipi verilənlər.
+7. Metodları
 ### Python Üzvlük Operatorları (Python Membership Operators) ###
 ### input() funksiyası ###
 ### Şərhlər (comments) ###
