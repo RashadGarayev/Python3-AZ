@@ -60,3 +60,4 @@ Mündəricat
 10. remove() metodu
 11. reverse() metodu
 12. sort() metodu
+### Kortejlər (tuples) verilən tipi ###
