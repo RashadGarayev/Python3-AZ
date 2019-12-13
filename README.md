@@ -61,4 +61,6 @@ Mündəricat
 11. reverse() metodu
 12. sort() metodu
 ### Kortejlər (tuples) verilən tipi ###
-1.Kortejlər.Metodları
+1.Kortejlər.
+2Metodları
+###Lüğətlər (Dictionaries) verilən tipi ###
