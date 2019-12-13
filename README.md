@@ -68,3 +68,5 @@ Mündəricat
 
 
 ### Lüğətlər (Dictionaries) ###
+1. Lüğətlər
+2. Metodları
