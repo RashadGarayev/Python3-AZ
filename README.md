@@ -63,4 +63,5 @@ Mündəricat
 ### Kortejlər (tuples) verilən tipi ###
 1.Kortejlər.
 2Metodları
-###Lüğətlər (Dictionaries) verilən tipi ###
+
+### Lüğətlər (Dictionaries) ###
