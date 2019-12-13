@@ -3,7 +3,7 @@
 
 
 
-![](http://image/pyimg.jpg)
+![picture](http://RashadGarayev/Python3-AZ/image/pyimg.jpg)
 
 
 
