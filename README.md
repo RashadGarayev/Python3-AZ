@@ -82,3 +82,24 @@ Mündəricat
 10. popitem() metodu
 11. setdefault() metodu
 12. update() metodu
+
+### Set (dəstlər) ###
+1. Dəstlər
+2. Metodları
+2. add() metodu
+3. clear() metodu
+4. copy() metodu
+5. difference() metodu
+6. difference_update() metodu
+7. discard() metodu
+8. intersection() metodu
+9. intersection_update() metodu
+10. isdisjoint() metodu
+11. issubset() metodu
+12. issuperset() metodu
+13. pop() metodu
+14. remove() metodu
+15. symmetric_difference() metodu
+16. symmetric_difference_update() metodu
+17. union() metodu
+18. update() metodu
