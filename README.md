@@ -103,3 +103,5 @@ Mündəricat
 16. symmetric_difference_update() metodu
 17. union() metodu
 18. update() metodu
+
+### Python Condition Operators and If statements (Python Şərt Operatorları və İf ifadəsi)###
