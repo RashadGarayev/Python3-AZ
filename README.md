@@ -104,4 +104,8 @@ Mündəricat
 17. union() metodu
 18. update() metodu
 
-### Python Condition Operators and If statements (Python Şərt Operatorları və İf ifadəsi)###
+### Python Condition Operators and If statements (Python Şərt Operatorları və İf ifadəsi) ###
+1. if Operatoru
+2. else Operatoru
+3. elif Operatoru
+
