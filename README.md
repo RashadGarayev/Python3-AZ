@@ -110,3 +110,4 @@ Mündəricat
 3. elif Operatoru
 
 ### Dövr Operatorları (Şərtli və Sayğaclı) ###
+1. for Operatoru
