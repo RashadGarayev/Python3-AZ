@@ -112,3 +112,4 @@ Mündəricat
 ### Dövr Operatorları (Şərtli və Sayğaclı) ###
 1. for Operatoru
 2. range() Funksiyası
+3. List comprehension
