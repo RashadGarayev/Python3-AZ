@@ -109,3 +109,4 @@ Mündəricat
 2. else Operatoru
 3. elif Operatoru
 
+### Dövr Operatorları (Şərtli və Sayğaclı) ###
