@@ -113,5 +113,6 @@ Mündəricat
 1. for Operatoru
 2. range() Funksiyası
 3. List comprehension
-4. Break , Continue və Pass ifadələri 
-5. While Operatoru
+4. Dict comprehension 
+5. Break , Continue və Pass ifadələri 
+6. While Operatoru
