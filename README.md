@@ -116,3 +116,5 @@ Mündəricat
 4. Dict comprehension 
 5. While Operatoru
 6. Break , Continue və Pass ifadələri 
+
+#### Functions (Funksiyalar) ###
