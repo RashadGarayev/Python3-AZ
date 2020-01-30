@@ -118,3 +118,7 @@ Mündəricat
 6. Break , Continue və Pass ifadələri 
 
 #### Functions (Funksiyalar) ###
+1. Funksiyaları niyə istifadə edirik!
+2. Yazılış qaydası
+3. Nümunələr
+4. *args və **args ifadələri
