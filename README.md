@@ -27,13 +27,13 @@ Mündəricat
 7. Operator və Operandlar
 8. Riyazi Operatorlar(Arithmetic operators)
 9. print() funksiyası
-## Verilənlərin tipləri(Data types) ##
+### Verilənlərin tipləri(Data types) ##
 1. Tam Ədəd tipi (İnteger)
 2. Həqiqi ədəd tipi (Float)
 3. Qarışıq ədəd tipi (Complex)
-### Təyinat Operatorları (Assignment Operators) ###
-### Python müqayisə operatorları (Python Comparison Operators) ###
-### Sətir tipi verilənlər (String) ###
+#### Təyinat Operatorları (Assignment Operators) ###
+#### Python müqayisə operatorları (Python Comparison Operators) ###
+#### Sətir tipi verilənlər (String) ###
 1. Escape Sequences
 2. len() - funksiyası
 3. Pythonda tip çevirmələri (Type Conversion in Python)
