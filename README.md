@@ -41,14 +41,14 @@ Mündəricat
 5. Slicing - dilimləmə(parçalama)
 6. Sətir tipi verilənlər.
 7. Metodları
-### Python Üzvlük Operatorları (Python Membership Operators) ###
-### input() funksiyası ###
-### Şərhlər (comments) ###
-### boolean () verilən tipi ###
-### Python məntiqi operatorları (Python Logical Operators) ###
-### Pythonda şəxsiyyət operatorları (Python Identity Operators) ###
-### format() metodu ###
-### Siyahılar (Lists) verilən tipi ###
+#### Python Üzvlük Operatorları (Python Membership Operators) ###
+#### input() funksiyası ###
+#### Şərhlər (comments) ###
+#### boolean () verilən tipi ###
+#### Python məntiqi operatorları (Python Logical Operators) ###
+#### Pythonda şəxsiyyət operatorları (Python Identity Operators) ###
+#### format() metodu ###
+#### Siyahılar (Lists) verilən tipi ###
 1. Siyahılar və metodları
 2. append() metodu
 3. clear() metodu
