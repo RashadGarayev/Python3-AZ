@@ -122,3 +122,5 @@ Mündəricat
 2. Yazılış qaydası
 3. Nümunələr
 4. *args və **args ifadələri
+5. Return İfadəsi
+6. Base Case və Recursive Case Funksiyalar
