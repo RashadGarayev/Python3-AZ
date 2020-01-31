@@ -125,4 +125,4 @@ Mündəricat
 5. Return İfadəsi
 6. Base Case və Recursive Case Funksiyalar
 7. Nümunələr
-8. Global və Lokal dəyişənlər(Global & Loca)
+8. Global və Lokal dəyişənlər(Global & Local)
