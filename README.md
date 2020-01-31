@@ -124,3 +124,5 @@ Mündəricat
 4. *args və **args ifadələri
 5. Return İfadəsi
 6. Base Case və Recursive Case Funksiyalar
+7. Nümunələr
+8. Global və Lokal dəyişənlər(Global & Loca)
