@@ -126,3 +126,6 @@ Mündəricat
 6. Base Case və Recursive Case Funksiyalar
 7. Nümunələr
 8. Global və Lokal dəyişənlər(Global & Local)
+9. Lambda ifadəsi
+
+#### Modules (Modullar) ###
