@@ -1,24 +1,25 @@
 def toplama(x,y):
     """
-    Funksiya toplama əməlini yerinə yetirir
+    funksiya toplama əməlini yerinə yetirir.
     """
     result = x+y
     return result
 def çıxma(x,y):
     """
-    Funksiya çıxma əməlini yerinə yetirir
+    funksiya çıxma əməlini yerinə yetirir.
     """
-    result = x-y 
+    result = x-y
     return result
 def hasil(x,y):
     """
-    Funksiya vurma əməlini yerinə yetirir
+    funksiya vurma əməlini yerinə yetirir.
     """
-    result = x*y 
+    result = x*y
     return result
+
 def bölmə(x,y):
     """
-    Funksiya bölmə əməlini yerinə yetirir
+    funksiya bölmə əməlini yerinə yetirir.
     """
-    result = x/y 
+    result = x/y
     return result

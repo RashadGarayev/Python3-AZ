@@ -1,5 +1,3 @@
-import function
-print(dir(function))
-print('-------------------------------------')
+import discriminant
 
-print('Cavab:',function.hasil(12,4))
+print(discriminant.diskriminant(-1,2.4,0.5))
