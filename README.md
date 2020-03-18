@@ -129,3 +129,6 @@ Mündəricat
 9. Lambda ifadəsi
 
 #### Modules (Modullar) ###
+1. Modullar nədir!
+2. Şəxsi moulların hazırlanması
+3. Nümunələr
