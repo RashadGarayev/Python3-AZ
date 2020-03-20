@@ -132,3 +132,5 @@ Mündəricat
 1. Modullar nədir!
 2. Şəxsi moulların hazırlanması
 3. Nümunələr
+#### Decorators (dekorativ funksiyalar)
+1. Nümunələr
