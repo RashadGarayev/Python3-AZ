@@ -132,5 +132,11 @@ Mündəricat
 1. Modullar nədir!
 2. Şəxsi moulların hazırlanması
 3. Nümunələr
-#### Decorators (dekorativ funksiyalar)
+#### Decorators (dekorativ funksiyalar) ####
 1. Nümunələr
+
+#### Errors_Exceptions(Xətalar və İstisnalar) ####
+1. Nümunələr
+
+#### Python Object Oriented Programming(Obyekt Yönümlü Proqramlaşdırma) ####
+
