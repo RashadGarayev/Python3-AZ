@@ -155,4 +155,8 @@ Mündəricat
 1. all()
 2. any()
 3. map()
+4. dir()
+5. enumerate()
+6. zip()
+
 
