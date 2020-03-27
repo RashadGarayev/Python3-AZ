@@ -139,4 +139,8 @@ Mündəricat
 1. Nümunələr
 
 #### Python Object Oriented Programming(Obyekt Yönümlü Proqramlaşdırma) ####
+1. Syntax(Sintaksisi)
+2. Enkapsulyasiya (Encapsulation)
+3. Varislik (İnheritance) Mexanizmi
+4. Polimorfizm (Polymorphism)
 
