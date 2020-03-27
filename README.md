@@ -144,3 +144,10 @@ Mündəricat
 3. Varislik (İnheritance) Mexanizmi
 4. Polimorfizm (Polymorphism)
 
+#### Reading and Writing Files in Python (Python dilində faylların oxunması və yazılması)
+1. File Types(Fayl tipləri)
+2. Open() Function (Open funksiyası)
+3. Mode (modlar)
+4. Open() Function (Open funksiyası)
+5. Əlavələr
+4. Create a text file (text faylların hazırlanması)
