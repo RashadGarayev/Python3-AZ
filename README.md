@@ -150,3 +150,9 @@ Mündəricat
 3. Mode (modlar)
 4. Əlavələr
 5. Create a text file (text faylların hazırlanması)
+
+#### Built-in Functions(Pythonda quraşdırılmış funksiyalar) ####
+1. all()
+2. any()
+3. map()
+
