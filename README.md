@@ -148,6 +148,5 @@ Mündəricat
 1. File Types(Fayl tipləri)
 2. Open() Function (Open funksiyası)
 3. Mode (modlar)
-4. Open() Function (Open funksiyası)
-5. Əlavələr
-4. Create a text file (text faylların hazırlanması)
+4. Əlavələr
+5. Create a text file (text faylların hazırlanması)
