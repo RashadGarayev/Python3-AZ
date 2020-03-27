@@ -1,0 +1,3 @@
+Python proqramlaşdırma dili
+Java proqramlaşdırma dili
+C++ proqramlaşdırma dili
