@@ -143,7 +143,7 @@ Mündəricat
 2. Enkapsulyasiya (Encapsulation)
 3. Varislik (İnheritance) Mexanizmi
 4. Polimorfizm (Polymorphism)
-
+5. Special Method(OOP-də xüsusi metodlar)
 #### Reading and Writing Files in Python (Python dilində faylların oxunması və yazılması)
 1. File Types(Fayl tipləri)
 2. Open() Function (Open funksiyası)
