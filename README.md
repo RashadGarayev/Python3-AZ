@@ -158,5 +158,7 @@ Mündəricat
 4. dir()
 5. enumerate()
 6. zip()
+7. filter()
+8. reduce (from functools)
 
 
