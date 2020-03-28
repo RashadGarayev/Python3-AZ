@@ -160,5 +160,15 @@ Mündəricat
 6. zip()
 7. filter()
 8. reduce (from functools)
+9. len() 
+10. abs() 
+11. min() və max()
+12. round()
+13. divmod()
+14. pow()
+15. sum()
+16. isinstance()
+17. reversed()
+18. locals() və globals()
 
 
