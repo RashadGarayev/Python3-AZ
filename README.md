@@ -183,7 +183,7 @@ Mündəricat
 
 #### Advanced Modules(Pythonda qabaqcıl modullar) ####
 
-
+#### Parallelising Python with Threading and Multiprocessing ####
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
 
