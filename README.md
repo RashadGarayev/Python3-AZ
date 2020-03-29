@@ -184,4 +184,7 @@ Mündəricat
 #### Advanced Modules(Pythonda qabaqcıl modullar) ####
 
 
+#### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
+
+
 
