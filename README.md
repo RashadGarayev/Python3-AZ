@@ -171,4 +171,8 @@ Mündəricat
 17. reversed()
 18. locals() və globals()
 
+#### Iterators and Generators(Silsilələr və törəmələr) ####
+1. Silsilələr
+2. __iter __ () və __next __ () metodları
+3. iter() və next() funksiyaları
 
