@@ -180,7 +180,7 @@ Mündəricat
 5. Generator ifadələr
 
 #### Python package(Pythonda paketlərin hazırlanması) ####
-
+1. Nümunələr
 #### Advanced Modules(Pythonda qabaqcıl modullar) ####
 
 #### Parallelising Python with Threading and Multiprocessing ####
