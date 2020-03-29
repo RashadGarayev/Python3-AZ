@@ -178,3 +178,8 @@ Mündəricat
 3. iter() və next() funksiyaları
 4. Generators(törəmələr) və yield ifadəsi
 5. Generator ifadələr
+
+#### Advanced Modules(Pythonda qabaqcıl modullar) ####
+
+
+
