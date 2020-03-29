@@ -179,6 +179,8 @@ Mündəricat
 4. Generators(törəmələr) və yield ifadəsi
 5. Generator ifadələr
 
+#### Python package(Pythonda paketlərin hazırlanması) ####
+
 #### Advanced Modules(Pythonda qabaqcıl modullar) ####
 
 
