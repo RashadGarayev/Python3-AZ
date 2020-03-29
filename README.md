@@ -175,5 +175,5 @@ Mündəricat
 1. Silsilələr
 2. __iter __ () və __next __ () metodları
 3. iter() və next() funksiyaları
-4. Generators(törəmələr)
+4. Generators(törəmələr) və yield ifadəsi
 5. Generator ifadələr
