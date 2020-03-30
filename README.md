@@ -186,6 +186,6 @@ Mündəricat
 #### Parallelising Python with Threading and Multiprocessing ####
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
-#### Kivy: Cross-platform Python Framework for NUI Development ####
+#### Kivy: Cross-platform Python Framework  ####
 
 
