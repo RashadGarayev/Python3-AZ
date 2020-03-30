@@ -185,7 +185,12 @@ Mündəricat
 #### Python package(Pythonda paketlərin hazırlanması) ####
 1. Nümunələr
 #### Advanced Modules(Pythonda qabaqcıl modullar) ####
-
+1. os modulu
+2. sys modulu
+3. datetime modulu
+4. time modulu
+5. re modulu
+6. random modulu
 #### Parallelising Python with Threading and Multiprocessing ####
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
