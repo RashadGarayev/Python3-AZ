@@ -191,7 +191,7 @@ Mündəricat
 4. time modulu
 5. re modulu
 6. random modulu
-#### Parallelising Python with Threading and Multiprocessing ####
+#### Əlavələr ####
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
 #### Kivy: Cross-platform Python Framework  ####
