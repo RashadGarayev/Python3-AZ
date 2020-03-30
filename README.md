@@ -13,7 +13,10 @@
 > 
 > Python 3.7.5
 
+
 [https://www.python.org/downloads/release/python-375/](https://www.python.org/downloads/release/python-375/)
+
+[https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
 
 
