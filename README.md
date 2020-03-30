@@ -1,7 +1,7 @@
 
 # Python3 proqramlaşdırma dili  #
 ------------------------------------------------------------------------------------------------------------------
-### Zəhmət olmasa Python proqramlaşdırma dilini,aşağıdakı mündəricat ardıcıllığı ilə öyrənin. ###
+### Python proqramlaşdırma dilini,aşağıdakı mündəricat ardıcıllığı ilə öyrənin. ###
 
 
 ![](https://github.com/RashadGarayev/Python3-AZ/blob/master/image/pyimg.jpg)
