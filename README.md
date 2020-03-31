@@ -192,6 +192,8 @@ Mündəricat
 5. re modulu
 6. random modulu
 #### Əlavələr ####
+1. BeautifulSoup
+2. Qrcode
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
 #### Kivy: Cross-platform Python Framework  ####
