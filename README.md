@@ -194,6 +194,9 @@ Mündəricat
 #### Əlavələr ####
 1. BeautifulSoup
 2. Qrcode
+
+#### Python Sqlite3 ####
+1. Nümunələr
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
 #### Kivy: Cross-platform Python Framework  ####
