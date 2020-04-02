@@ -199,7 +199,9 @@ Mündəricat
 1. Nümunələr
 2. OOP-sqlite3
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
-
+1. for Unix/Linux
+2. Windows
+3. Nümunələr
 #### Kivy: Cross-platform Python Framework  ####
 
 
