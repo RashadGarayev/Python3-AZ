@@ -10,8 +10,11 @@ class MainWindow(QMainWindow):
         super(MainWindow, self).__init__(*args, **kwargs)
         #Əsas pəncərə self ifadəsində referans alındı.
         self.setWindowTitle("Bu mənim ilk proqramım")
+        #Pəncərə loqosu
+        self.setWindowIcon(QIcon('../image/ico.png')) #Pəncərə sol yuxarı küncdə loqo əlavə olundu
+        #Pəncərə arxa plan rəngi
         self.palette = QPalette()
-        self.palette.setColor(QPalette.Background,Qt.darkGray)
+        self.palette.setColor(QPalette.Background,Qt.white)
         self.setPalette(self.palette)
         self.label = QLabel(self) #self ifadəsi MainWindow pəncərədə olduğunu təmsil edir
         #self.label.setText('Pyqt Dərsləri')
