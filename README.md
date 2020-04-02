@@ -197,6 +197,7 @@ Mündəricat
 
 #### Python Sqlite3 ####
 1. Nümunələr
+2. OOP-sqlite3
 #### PyQt GUİ(Qrafik istifadəçi interfeysi) ####
 
 #### Kivy: Cross-platform Python Framework  ####
