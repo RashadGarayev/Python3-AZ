@@ -18,11 +18,28 @@ class MainWindow(QWidget):
         self.palette.setColor(QPalette.Background, Qt.white)
         self.setPalette(self.palette)
         self.setGeometry(600,150,512,512)
-        self.label=QLabel(self)
-        self.pixmap = QPixmap('../image/ai.png')
-        self.label.setPixmap(self.pixmap)
-        self.show()
+        self.label = QLabel(self)
+        self.label.setText(u'Adınız')
+        self.label.move(150,50)
 
+        self.lineedit = QLineEdit(self)
+        self.lineedit.setAlignment(Qt.AlignLeft)
+        self.lineedit.move(200, 50)
+
+        self.label1 = QLabel(self)
+        self.label1.setText((u'Yaşınız'))
+        self.label1.move(150,80)
+        self.lineedit1 = QLineEdit(self)
+        self.lineedit1.setInputMask('99')
+        self.lineedit1.setAlignment(Qt.AlignLeft)
+        self.lineedit1.move(200,80)
+        self.button = QPushButton(self)
+        self.button.setText(u'click')
+        self.button.move(230,100)
+        self.button.clicked.connect(self.goster)
+        self.show()
+    def goster(self):
+        print('Adım :{} | Yaşım :{}'.format(self.lineedit.text(),self.lineedit1.text()))
 
 if __name__ == '__main__':
     app = QApplication([])
