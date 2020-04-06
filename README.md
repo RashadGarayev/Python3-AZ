@@ -204,4 +204,8 @@ Mündəricat
 3. Nümunələr
 #### Kivy: Cross-platform Python Framework  ####
 
+1. for Unix/Linux
+2. Windows
+3. Nümunələr
 
+#### RaspBerry Pi Arduino ####
