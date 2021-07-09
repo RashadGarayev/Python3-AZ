@@ -1,7 +1,7 @@
 
 # Python3 proqramlaşdırma dili  #
 
-Python3 proqramlaşdırma dili - Video dərsliklər Udemy platformasına əlavə olunur....
+
 ------------------------------------------------------------------------------------------------------------------
 ### Python proqramlaşdırma dilini,aşağıdakı mündəricat ardıcıllığı ilə öyrənin. ###
 
