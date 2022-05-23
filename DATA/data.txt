@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Python proqramlaşdırma dili
-Java proqramlaşdırma dili
-=======
-Python proqramlaşdırma dili
-Java proqramlaşdırma dili
->>>>>>> 4189c785429eb0aacd15d95e708254311add63b7
-C++ proqramlaşdırma dili
